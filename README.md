@@ -22,10 +22,10 @@ Let's connect and explore the world of coding together!
 ### NatHair
 NatHair is a vibrant social media platform designed for hair enthusiasts. It showcases my proficiency in frontend technologies such as React.js and Vue.js, coupled with backend technologies like Python and Django. Explore the diverse world of haircare and community building.
 
-[![NatHair](https://github.com/pandeypearl/NatHair)](https://www.onrender.com/NatHair)
+[Project Respository](https://github.com/pandeypearl/NatHair) | [Live Demo]([link-to-nathair-repo](https://www.onrender.com/NatHair)
 
 ### InnerCircle
 InnerCircle is a relationship tracker and manager, offering a secure space to manage your personal network. Built using Python, Django, Django Rest Framework, and OpenAI, it streamlines communication and organization.
 
-[![InnerCircle](https://github.com/pandeypearl/InnerCircle)]
+[Project Repository](https://github.com/pandeypearl/InnerCircle)
 
