@@ -1,36 +1,31 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Pretty Pandey
-=====================================================================================================================================
+# Hello, I'm Pretty Pandey 👋
+I am an enthusiastic and ambitious full-stack developer with a passion for creating innovative solutions. My journey in software development includes completing the ALX/Holberton School Full Stack Programming course, where I honed my skills in both frontend and backend technologies.
 
-Full Stack Programmer
-------------------
+## Skills
 
-*   ✉️  You can contact me at [prettypandeypearl@gmail.com](mailto:prettypandeypearl@gmail.com)
+- **Languages:** C, Python, JavaScript, TypeScript
+- **Frontend:** React.js, Angular, HTML5, CSS3
+- **Backend:** Flask, Django, Django Rest Framework, Node.js, Express.js
+- **Database:** MongoDB, MySQL
+- **Tools:** Git, GitHub, Adobe, Figma
 
+## About Me
 
-### Skills 
+I am constantly exploring new tools and implementing them in my projects to enhance my skills. My passion lies in overseeing projects holistically, ensuring a seamless user experience from frontend to backend.
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-</p>
+Let's connect and explore the world of coding together!
 
+[LinkedIn](https://www.linkedin.com/in/prettypandey/) | [Portfolio](https://www.prettypandey.tech)
 
-                    
-### Socials
-                  
-                  
-<p align="left">                          
-<a href="https://www.behance.com/prettypandey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>                         
-<a href="https://www.dribbble.com/prettypandey_dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a>                          
-<a href="https://www.github.com/pandeypearl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>                      
-<a href="http://www.instagram.com/prettypandey_dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+## Projects
+
+### NatHair
+NatHair is a vibrant social media platform designed for hair enthusiasts. It showcases my proficiency in frontend technologies such as React.js and Vue.js, coupled with backend technologies like Python and Django. Explore the diverse world of haircare and community building.
+
+[![NatHair](https://github.com/pandeypearl/NatHair)](https://www.onrender.com/NatHair)
+
+### InnerCircle
+InnerCircle is a relationship tracker and manager, offering a secure space to manage your personal network. Built using Python, Django, Django Rest Framework, and OpenAI, it streamlines communication and organization.
+
+[![InnerCircle](https://github.com/pandeypearl/InnerCircle)]
+
